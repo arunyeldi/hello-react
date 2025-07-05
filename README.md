@@ -18,3 +18,9 @@
 - Error Handling
 - HTTPs
 - Tree Shaking - remove unused code
+
+# L-3
+- React components
+- class based components
+- functional based components
+- JSX
