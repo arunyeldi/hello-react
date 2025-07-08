@@ -24,3 +24,6 @@
 - class based components
 - functional based components
 - JSX
+
+# L-4
+- Important to learn JS
